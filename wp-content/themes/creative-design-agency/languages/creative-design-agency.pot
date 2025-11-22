@@ -1,0 +1,651 @@
+# Copyright (C) 2025 Creta Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Creative Design Agency 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/creative-design-agency\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-08-09T14:11:08+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: creative-design-agency\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/block-patterns.php:11
+msgid "Creative Design Agency"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.cretathemes.com/products/creative-design-agency"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Unleash your creativity with the Creative Design Agency, a modern,responsive, and feature-rich theme built for Creative Design Agency,Design Studio, Branding Agency, Logo Design, Web Design, GraphicDesign, UI Design, UX Design, Digital Design, Brand Identity, Visual Branding design, and freelancers. Whether you&#39;re launching a portfolio,promoting branding services, or showcasing your creative team, this theme provides everything you need to build a stunning online presence. Crafted with designers in mind, the theme blends aesthetic excellence with powerful functionality. It features seamless integration with Elementor, enabling drag-and-drop editing. From typography to layout customization, every element is designed to reflect the uniqueness of your creative design agency. With built-in templates for portfolios, case studies, team sections, and service pages, this theme makes it easy to highlight your design expertise. Its mobile-first design ensures your content looks flawless across all devices, while SEO-friendly code helps boost your visibility online. Perfect for digital agencies, branding studios, creative professionals, and freelance designers, this theme supports multiple customization options, including header layouts, color schemes, font choices, and more. Showcase your best projects with image sliders, video backgrounds, and interactive galleries that will captivate your visitors at first glance."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Creta Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://cretathemes.com/"
+msgstr ""
+
+#: inc/block-patterns.php:12
+msgid "Pages"
+msgstr ""
+
+#: inc/block-styles.php:17
+msgid "No Padding"
+msgstr ""
+
+#: inc/block-styles.php:26
+#: inc/block-styles.php:44
+#: inc/block-styles.php:53
+#: inc/block-styles.php:63
+#: inc/block-styles.php:73
+#: inc/block-styles.php:82
+msgid "Theme Style"
+msgstr ""
+
+#: inc/block-styles.php:35
+msgid "Plain"
+msgstr ""
+
+#: inc/icon-function.php:26
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-function.php:31
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404.php:9
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:13
+msgid "Oops! That page cannot be found"
+msgstr ""
+
+#: patterns/archive-header-with-background.php
+msgctxt "Pattern title"
+msgid "Archive Header With Background"
+msgstr ""
+
+#: patterns/default-header.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr ""
+
+#: patterns/footer-columns.php
+msgctxt "Pattern title"
+msgid "Footer Columns"
+msgstr ""
+
+#: patterns/footer-columns.php:22
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+msgstr ""
+
+#: patterns/footer-columns.php:28
+msgid "Our Link"
+msgstr ""
+
+#: patterns/footer-columns.php:45
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-columns.php:49
+msgid "your location here"
+msgstr ""
+
+#: patterns/footer-columns.php:53
+msgid "+12 3456789123"
+msgstr ""
+
+#: patterns/footer-columns.php:57
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/footer-columns.php:63
+msgid "Our Gallery"
+msgstr ""
+
+#: patterns/footer-columns.php:93
+msgid "Creative Design Agency. All Rights Reserved."
+msgstr ""
+
+#: patterns/main-banner.php
+msgctxt "Pattern title"
+msgid "Main Banner"
+msgstr ""
+
+#: patterns/main-banner.php:20
+#: patterns/main-banner.php:74
+#: patterns/main-banner.php:128
+msgid "WELCOME TO CREATIVE AGENCY"
+msgstr ""
+
+#: patterns/main-banner.php:24
+#: patterns/main-banner.php:78
+#: patterns/main-banner.php:132
+msgid "Elevate Your Creative"
+msgstr ""
+
+#: patterns/main-banner.php:24
+#: patterns/main-banner.php:78
+#: patterns/main-banner.php:132
+msgid "Agency"
+msgstr ""
+
+#: patterns/main-banner.php:28
+#: patterns/main-banner.php:82
+#: patterns/main-banner.php:136
+#: patterns/projects-section.php:16
+#: patterns/testimonial.php:16
+msgid "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: patterns/main-banner.php:34
+#: patterns/main-banner.php:88
+#: patterns/main-banner.php:142
+msgid "Get Started Now"
+msgstr ""
+
+#: patterns/main-banner.php:47
+#: patterns/main-banner.php:101
+#: patterns/main-banner.php:155
+msgid "Got Questions?"
+msgstr ""
+
+#: patterns/main-banner.php:51
+#: patterns/main-banner.php:105
+#: patterns/main-banner.php:159
+msgid "(+001)123-456-7890"
+msgstr ""
+
+#: patterns/main-header.php
+msgctxt "Pattern title"
+msgid "Main Header"
+msgstr ""
+
+#: patterns/main-header.php:45
+msgid "Get a Quote"
+msgstr ""
+
+#: patterns/post-header-with-background.php
+msgctxt "Pattern title"
+msgid "Post Header With Background"
+msgstr ""
+
+#: patterns/projects-section.php
+msgctxt "Pattern title"
+msgid "Projects Section"
+msgstr ""
+
+#: patterns/projects-section.php:12
+msgid "Our Project"
+msgstr ""
+
+#: patterns/projects-section.php:31
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking layout."
+msgstr ""
+
+#: patterns/projects-section.php:35
+#: patterns/projects-section.php:57
+#: patterns/projects-section.php:79
+#: patterns/projects-section.php:101
+msgid "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed"
+msgstr ""
+
+#: patterns/projects-section.php:53
+#: patterns/projects-section.php:97
+msgid "Lorem Ipsum is simply dummy text of the industry."
+msgstr ""
+
+#: patterns/projects-section.php:75
+msgid "Dolor sit amet, consec adipiscing elit, sed."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/search.php:42
+msgid "Sorry Nothing Found. Try searching..!!"
+msgstr ""
+
+#: patterns/service-section.php
+msgctxt "Pattern title"
+msgid "Service Section"
+msgstr ""
+
+#: patterns/service-section.php:13
+msgid "Our Services"
+msgstr ""
+
+#: patterns/service-section.php:17
+msgid "We Serve the Perfect Pixel Solution"
+msgstr ""
+
+#: patterns/service-section.php:31
+msgid "Digital Marketing"
+msgstr ""
+
+#: patterns/service-section.php:35
+#: patterns/service-section.php:57
+#: patterns/service-section.php:79
+#: patterns/service-section.php:101
+msgid "Enthusiastically brand is a positioning scenarios with team driven best"
+msgstr ""
+
+#: patterns/service-section.php:53
+msgid "UI UX Designer"
+msgstr ""
+
+#: patterns/service-section.php:75
+msgid "App development"
+msgstr ""
+
+#: patterns/service-section.php:97
+msgid "Graphic Designer"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:10
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:18
+msgid "About"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown prmontserrat took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/sidebar.php:26
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown prmontserrat took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+msgstr ""
+
+#: patterns/sidebar.php:32
+msgid "Archive"
+msgstr ""
+
+#: patterns/sidebar.php:40
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar.php:56
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:64
+msgid "Social Icons"
+msgstr ""
+
+#: patterns/sidebar.php:82
+msgid "Gallery"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:12
+msgid "What our Client Says About Us"
+msgstr ""
+
+#: patterns/testimonial.php:31
+#: patterns/testimonial.php:63
+#: patterns/testimonial.php:95
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/testimonial.php:41
+#: patterns/testimonial.php:73
+#: patterns/testimonial.php:105
+msgid "Kristan Watson"
+msgstr ""
+
+#: patterns/testimonial.php:45
+msgid "Business Manager"
+msgstr ""
+
+#: patterns/testimonial.php:77
+msgid "Ui Developer"
+msgstr ""
+
+#: patterns/testimonial.php:109
+msgid "Business Ceo"
+msgstr ""
+
+#: styles/blue.json
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr ""
+
+#: styles/blue.json
+#: styles/brown.json
+#: styles/coral.json
+#: styles/green.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/brown.json
+#: styles/coral.json
+#: styles/green.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/brown.json
+#: styles/coral.json
+#: styles/green.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/brown.json
+#: styles/coral.json
+#: styles/green.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr ""
+
+#: styles/blue.json
+#: styles/brown.json
+#: styles/coral.json
+#: styles/green.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/blue.json
+#: styles/brown.json
+#: styles/coral.json
+#: styles/green.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr ""
+
+#: styles/blue.json
+#: styles/brown.json
+#: styles/coral.json
+#: styles/green.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary Text Color"
+msgstr ""
+
+#: styles/blue.json
+#: styles/brown.json
+#: styles/coral.json
+#: styles/green.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary Bg Color"
+msgstr ""
+
+#: styles/blue.json
+#: styles/brown.json
+#: styles/coral.json
+#: styles/green.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/brown.json
+msgctxt "Style variation name"
+msgid "Brown"
+msgstr ""
+
+#: styles/coral.json
+msgctxt "Style variation name"
+msgid "Coral"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Plus Jakarta Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Site Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Post Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Semi Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical foreground to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Projects Overlay"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Main Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Columns"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Content"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Content"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (No Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post (No Header Image)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Header Image)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Right Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Left Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (No Sidebar)"
+msgstr ""
